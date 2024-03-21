@@ -24,17 +24,17 @@ DAX for custom expressions and calculations
 
 M-code for advanced data transformations
 
-# Step 1: Data Extraction
+**Step 1: Data Extraction**
 The extraction process involves sourcing raw data from multiple systems within AdventureWorks. This could include sales figures, customer data, and product information. The extraction is set to gather historical and current data to provide a comprehensive view.
 
-# Step 2: Data Wrangling and Cleaning with Microsoft #powerquery
+**Step 2: Data Wrangling and Cleaning with Microsoft #powerquery**
 With #powerquery, the raw data undergoes rigorous cleaning and transformation. This step ensures that the data quality is high with consistent formatting, which is essential for accurate analysis. Processes such as removing duplicates, handling missing values, and normalizing text are applied.
 
-# Step 3: Data Modeling
+**Step 3: Data Modeling**
 The cleansed data is then structured into a cohesive model. Relationships are built, and data is normalized into fact and dimension tables with defined primary and foreign keys, setting the stage for efficient and scalable analysis.
 
-# Step 4: DAX & M-code
+**Step 4: DAX & M-code**
 Utilizing DAX (Data Analysis Expressions) & M-code, calculated columns, measures, and custom functions are created to enrich the data model. This enables advanced analytics and the generation of actionable insights directly within the dashboard.
 
-# Step 5: Dashboard Creation
+**Step 5: Dashboard Creation**
 Finally, the polished data model is visualized through the executive dashboard. This includes interactive elements, trend analysis, and KPI tracking, all designed with the end-user in mind. The dashboard allows for quick assessments and data-driven decision-making.
