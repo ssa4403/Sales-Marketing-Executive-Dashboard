@@ -2,9 +2,9 @@
 
 This project showcases an executive dashboard for "AdventureWorks," offering insights into key business metrics. By meticulously constructing this dashboard, I've facilitated an intuitive grasp of key performance indicators (KPIs)—revenue, profit, order volume, and customer engagement metrics. The multifaceted layers of the dashboard reveal trends, such as the surge in sales of specific products and the pivotal contributions of top customers.
 
-# Features
+**Features**
 
-High-level financial KPIs: Revenue, Profit, Orders
+Financial KPIs: Revenue, Profit, Orders
 
 Product-level performance tracking
 
@@ -14,7 +14,7 @@ Revenue and sales trends over time
 
 Interactive visual elements for user exploration
 
-# Tools Used
+**Tools Used**
 
 Microsoft Power BI for dashboard creation and reporting
 
