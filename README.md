@@ -63,7 +63,8 @@ Users can view performance over time and across product categories. This interac
 
 
 **Product Detail Analysis**
-   When a user selects a product category from the executive dashboard, they're taken to the product detail page:
+   
+When a user selects a product category from the executive dashboard, they're taken to the product detail page:
 
    1. Product Selection:
       Choose a specific product to analyze, such as the 30 oz. Water Bottle, and immediately see the total orders, adjusted profit, and other relevant metrics.
@@ -76,7 +77,8 @@ Users can view performance over time and across product categories. This interac
 
 
 **Customer Insights:**
-   The customer detail page provides in-depth analytics about the customer base:
+   
+The customer detail page provides in-depth analytics about the customer base:
 
    1. Total Customers & Revenue Per Customer: 
       Understand the size of your customer base and track average revenue per customer to gauge customer value.
