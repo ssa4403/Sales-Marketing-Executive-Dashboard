@@ -28,7 +28,9 @@ This project showcases an executive dashboard for "AdventureWorks," offering ins
 
 **Step 1: Data Extraction**
 
-The extraction process involves sourcing raw data from multiple systems within AdventureWorks. This could include sales figures, customer data, and product information. The extraction is set to gather historical and current data to provide a comprehensive view.
+The extraction process involves sourcing raw data from multiple systems within AdventureWorks. This could include sales
+figures, customer data, and product information. The extraction is set to gather historical and current data to provide a 
+comprehensive view.
 
 **Step 2: Data Wrangling and Cleaning with Microsoft #powerquery**
 
