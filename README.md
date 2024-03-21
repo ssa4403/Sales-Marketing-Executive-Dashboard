@@ -52,39 +52,39 @@ Finally, the polished data model is visualized through the executive dashboard. 
 
 Users can view performance over time and across product categories. This interactivity offers a dynamic user experience:
 
-   **1. Revenue Trending:**
+   1. Revenue Trending:
       Track sales performance over time, identify patterns, and analyze seasonal trends.
    
-   **2. Orders by Category:**
+   2. Orders by Category:
       Break down the order volume by product category, such as accessories, bikes, and clothing, to identify which sections are performing above or below expectations.
 
-   **3. Product-Level Analysis:** 
+   3. Product-Level Analysis:
      Users can click on any category to drill down further into the top-selling products within that category.
 
 
 **Product Detail Analysis**
    When a user selects a product category from the executive dashboard, they're taken to the product detail page:
 
-   **1. Product Selection:** 
+   1. Product Selection:
       Choose a specific product to analyze, such as the 30 oz. Water Bottle, and immediately see the total orders, adjusted profit, and other relevant metrics.
 
-   **2. Sales and Profit Targets:** 
+   2. Sales and Profit Targets:
       Assess how each product performs against monthly sales and profit targets, providing clear indicators of over- or under-performing products.
 
-   **3. Time Series Analysis:** 
+   3. Time Series Analysis:
       Visualize sales trends for each product over time to understand customer demand and to adjust stock levels accordingly.
 
 
 **Customer Insights:**
    The customer detail page provides in-depth analytics about the customer base:
 
-   **1. Total Customers & Revenue Per Customer:** 
+   1. Total Customers & Revenue Per Customer: 
       Understand the size of your customer base and track average revenue per customer to gauge customer value.
    
-   **2. Demographic Segmentation:** 
+   2. Demographic Segmentation: 
       View orders by income level and occupation, helping tailor marketing strategies to specific customer segments.
    
-   **3. Top Customers:** 
+   3. Top Customers: 
       Identify and analyze top customers by orders and revenue, which is crucial for developing targeted sales strategies and personalized engagement.
 
 The dashboard is designed to be fully responsive, adapting to various screen sizes and devices, ensuring that data is always accessible and readable.
