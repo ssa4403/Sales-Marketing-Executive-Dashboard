@@ -48,7 +48,11 @@ Finally, the polished data model is visualized through the executive dashboard. 
 
 # Detailed Dashboard Features
 
-**Drill-Down Capabilities**  
+**Executive Dashboard:**
+
+The executive dashboard provides a high-level overview of "AdventureWorks" company metrics. Key performance indicators like total revenue, profit, order count, and return rate are displayed prominently. This summary view is perfect for executives who need to quickly grasp the company's financial health.
+
+**Drill-Down Capabilities:**  
 
 Users can view performance over time and across product categories. This interactivity offers a dynamic user experience:
 
@@ -62,7 +66,7 @@ Users can view performance over time and across product categories. This interac
      Users can click on any category to drill down further into the top-selling products within that category.
 
 
-**Product Detail Analysis**
+**Product Detail Analysis:**
    
 When a user selects a product category from the executive dashboard, they're taken to the product detail page:
 
