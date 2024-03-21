@@ -45,3 +45,18 @@ Utilizing DAX (Data Analysis Expressions) & M-code, calculated columns, measures
 **Step 5: Dashboard Creation**
 
 Finally, the polished data model is visualized through the executive dashboard. This includes interactive elements, trend analysis, and KPI tracking, all designed with the end-user in mind. The dashboard allows for quick assessments and data-driven decision-making.
+
+# Detailed Dashboard Features
+
+**Drill-Down Capabilities**  
+
+Users can view performance over time and across product categories. This interactivity offers a dynamic user experience:
+
+**1. Revenue Trending:**
+   Track sales performance over time, identify patterns, and analyze seasonal trends.
+   
+**2. Orders by Category:**
+   Break down the order volume by product category, such as accessories, bikes, and clothing, to identify which sections are performing above or below expectations.
+
+**3. Product-Level Analysis:** 
+  Users can click on any category to drill down further into the top-selling products within that category.
